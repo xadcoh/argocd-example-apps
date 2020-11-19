@@ -10,7 +10,7 @@ image:
   pullPolicy: IfNotPresent
 
 service:
-  type: LoadBalancer
+  type: LoadBalancer1
   port: 80
 
 ingress:
